@@ -6,7 +6,7 @@ This file shares all the preprocessing steps and workflows to reproduce the rese
 <h2> Scoring large VCFs with nCER scores </h2>
 
 Pre-requisites for scoring a VCF file with nCER scores:
-- >= Python 3
+- => Python 3
 - GNU Paralllel: To download GNU parallel please refer to the following link http://git.savannah.gnu.org/cgit/parallel.git/tree/README
 
 This folder has all the documents and scripts required for scoring your VCF file with nCER scores. The contents of the folder include the following:
